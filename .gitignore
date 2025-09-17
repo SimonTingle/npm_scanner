@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node / npm
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Local OS files
+Thumbs.db
+Desktop.ini
+
+# Generated scan logs
+shai_hulud_scan_*.log
